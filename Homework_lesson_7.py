@@ -1,4 +1,4 @@
-"""# Task 3
+# Task 3
 
 my_list_1 = []
 
@@ -21,7 +21,7 @@ for num in my_list_1:
 for num in my_list_2:
     if my_list_2.index(num) % 2 != 0:
         my_result.append(num)
-print(my_result)"""
+print(my_result)
 
 # Task 11
 
